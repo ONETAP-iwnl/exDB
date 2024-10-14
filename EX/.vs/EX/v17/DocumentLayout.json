@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|c:\\users\\romka\\source\\repos\\onetap-iwnl\\exdb\\ex\\ex\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|solutionrelative:ex\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\ex\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|solutionrelative:ex\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\ex\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|solutionrelative:ex\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\ex\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|solutionrelative:ex\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\ex\\managerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|solutionrelative:ex\\managerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\ex\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|solutionrelative:ex\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\ex\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65918409-E734-457A-9A83-C4CD63C0BACF}|EX\\EX.csproj|solutionrelative:ex\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\ManagerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EX\\ManagerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\ManagerWindow.xaml.cs",
+              "RelativeToolTip": "EX\\ManagerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:24:14.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tovar.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\Tovar.cs",
+              "RelativeDocumentMoniker": "EX\\Tovar.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\Tovar.cs",
+              "RelativeToolTip": "EX\\Tovar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:09:03.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\ManagerWindow.xaml",
+              "RelativeDocumentMoniker": "EX\\ManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\ManagerWindow.xaml",
+              "RelativeToolTip": "EX\\ManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T14:26:55.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EX\\AuthorizationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "EX\\AuthorizationWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:19:46.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\AuthorizationWindow.xaml",
+              "RelativeDocumentMoniker": "EX\\AuthorizationWindow.xaml",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\AuthorizationWindow.xaml",
+              "RelativeToolTip": "EX\\AuthorizationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T14:18:46.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EX\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\MainWindow.xaml",
+              "RelativeToolTip": "EX\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T14:15:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EX\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\exDB\\EX\\EX\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EX\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:15:53.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

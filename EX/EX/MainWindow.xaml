@@ -1,0 +1,45 @@
+﻿<Window x:Class="EX.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="475" Width="820">
+    <Grid>
+        <Label VerticalAlignment="Top" HorizontalAlignment="Left" Content="Название склада" Margin="2,0,0,0"/>
+        <Label VerticalAlignment="Top" HorizontalAlignment="Left" Content="Адресс склада" Margin="2,49,0,0"/>
+        <TextBox Name="NameSkladTB" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="2,31,0,0" Width="103"/>
+        <TextBox Name="AdressSkladTB" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="2,75,0,0" Width="103"/>
+        <Button Content="Добавить склад" Margin="2,109,698,305" HorizontalAlignment="Left" VerticalAlignment="Center" Click="Button_Click"/>
+        <Button Content="Удалить склад" Margin="10,382,690,32" Click="DeleteButton_Click"/>
+        <DataGrid Name="DGSklad" Margin="2,151,548,85" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название склада" Binding="{Binding NameSklad}" Width="*"/>
+                <DataGridTextColumn Header="Адресс склада" Binding="{Binding Adress}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <Label VerticalAlignment="Top" HorizontalAlignment="Left" Content="Найти по названию" Margin="127,0,0,0"/>
+        <TextBox Name="tcbc" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="135,31,0,0" Width="103" SelectionChanged="tcbc_SelectionChanged"/>
+
+        <Label VerticalAlignment="Top" HorizontalAlignment="Left" Content="Название товара" Margin="685,0,0,0"/>
+        <TextBox Name="NameToverTB" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,31,10,0" Width="103"/>
+        <Label VerticalAlignment="Top" HorizontalAlignment="Left" Content="Описание товара" Margin="684,49,0,0"/>
+        <TextBox Name="DescriptionTB" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,80,10,0" Width="103"/>
+        <Button Content="Добавить товар" Margin="688,109,12,305" Click="AddNewTovar"/>
+
+        <DataGrid Name="DGTovar" Margin="538,140,12,96" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название товара" Binding="{Binding NameTovar}" Width="*"/>
+                <DataGridTextColumn Header="Описание" Binding="{Binding Description}" Width="*"/>
+                <DataGridTextColumn Header="ID Склада" Binding="{Binding ID_Sklad}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Content="Удалить товар" Margin="668,382,32,32" Click="DeleteButtonTovar_Click"/>
+        <Label VerticalAlignment="Top" HorizontalAlignment="Left" Content="Найти по названию" Margin="533,0,0,0"/>
+        <TextBox Name="tcbcTovar" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="538,31,0,0" Width="103" SelectionChanged="tcbcTovar_SelectionChanged"/>
+    </Grid>
+</Window>
